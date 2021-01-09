@@ -1,0 +1,25 @@
+Customer Relationship Management (CRM)
+Pr1
+CRM will be developed by a team of 4 using Yii framework
+Own3
+W 3 P 4 N 2 A 1
+Protect Earth
+Pr2
+collecting data related to global warming and find a way to solve problems
+Own1
+W 1 P 4 N 3 A 2
+Artificial Intelligence
+Pr3
+building a new model to train the machine
+Own2
+W 2 P 1 N 4 A 3
+Global Business
+Pr4
+make profit around the world
+Own4
+W 3 P 2 N 1 A 4
+HealthCare for the elderly
+Pr5
+create a healthcare machine which helps the elderly at home
+Own3
+W 1 P 2 N 3 A 4

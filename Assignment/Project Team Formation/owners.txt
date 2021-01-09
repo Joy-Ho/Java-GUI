@@ -1,0 +1,5 @@
+Snoopy;Cartoon;Own1;actor;snoopy@Japan.com;C1
+John;Wu;Own3;engineer;john123@student.rmit.edu.au;C2
+Alice;Kao;Own2;teacher;kao234@student.rmit.edu.au;C1
+Mike;Chen;Own4;police officer;mike567@gamil.com;C3
+Tom;Ho;Own5;lawyer;tom345@gmail.com;C2
